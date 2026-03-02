@@ -1,0 +1,14 @@
+title: Shreelakhshmi K
+description: Legal Professional Resume Website
+author: Shreelakhshmi K
+
+theme: minima
+
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
